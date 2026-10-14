@@ -1,3 +1,12 @@
+/*add font*/
+@font-face {
+    font-family: "lala";
+    src: url("../assets/fonts/Lalezar.ttf");
+}
+@font-face {
+    font-family: "yekan";
+    src: url("../assets/fonts/Yekan.ttf");
+}
 *{
     margin: 0;
     padding: 0;
