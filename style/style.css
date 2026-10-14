@@ -75,3 +75,25 @@ body{
 .card-body{
     padding: 20px 10px;
 }
+/* footer */
+.footer{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: orange;
+    color: black;
+    font-size: 30px;
+}
+
+/* responsive */
+@media screen and (min-width : 768px) {
+    .katooni-item-col{
+        width: 50%;
+    }
+}
+@media screen and (min-width : 992px) {
+    .katooni-item-col{
+        width: 25%;
+    }
+}
