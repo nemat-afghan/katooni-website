@@ -12,6 +12,8 @@
     padding: 0;
     box-sizing: border-box;
     list-style-type: none;
+}
+
 body{
     font-family: yekan;
     background: #141313;
