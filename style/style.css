@@ -45,3 +45,33 @@ body{
 .hero-img img{
     max-width: 100%;
 }
+
+.katooni-section {
+    padding: 16px 0;
+}
+.section-title{
+    color: orange;
+    font-size: 40px;
+}
+.katooni-wrraper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.katooni-item-col{
+    padding: 16px;
+    width: 100%;
+}
+.katooni-card{
+    border: 1px solid #b9b9b9;
+    background: #232222;
+    border-radius: 15px;
+    color: #b9b9b9;
+}
+.card-header img{
+    width: 100%;
+    height: auto;
+    border-radius : 15px 15px 0 0;
+}
+.card-body{
+    padding: 20px 10px;
+}
